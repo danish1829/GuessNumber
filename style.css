@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    
+}
+.head{
+    font-family: cursive;
+    color: red;
+    font-size: 25px;
+}
+.container{
+    height: 500px;
+    width: 25%;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 25px;
+    margin-left: 35%;
+    margin-top: 8%;
+    background-color: aliceblue;
+}
+
+.form{
+    margin-top: 70px;
+}
+
+#userInput{
+    margin-top: 25px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+#submit{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 23px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.footer{
+    margin-top: 25px;
+    font-size: 20px;
+    font-family: cursive;
+    color: red;
+    border-bottom: 2px solid red;
+}
+
+.note{
+    font-size: 15px;
+    margin-top: 10px;
+}
